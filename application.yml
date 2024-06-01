@@ -1,9 +1,4 @@
-
-spring:
-  application:
-    name: GLOBAL-CONFIG-SERVER
-    
-eureka:
+  eureka:
   instance:
     prefer-ip-address: true
   client:
